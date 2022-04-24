@@ -1,0 +1,17 @@
+.data-div{
+    width: auto;
+    height: 500px;
+    background-color: aqua;
+}
+
+.select{
+    background-color: blueviolet;
+}
+
+.person{
+    display: flex;
+    z-index: 1;
+}
+.person div{
+   
+}
